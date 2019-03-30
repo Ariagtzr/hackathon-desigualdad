@@ -80,9 +80,13 @@ El trabajo doméstico no ha tenido la importancia dentro del mercado laboral a p
 La discriminación sexual es una de las más arraigadas en nuestra sociedad, sin duda por sus precedentes históricos, puesto que a lo largo de los tiempos se observa que ha existido una gran discriminación, ya que las mujeres no podían alcanzar ni cargos políticos, incluso en algunos sitios no podían salir a la calle sin su marido ni tener un trabajo remunerado. Éste es el tipo de discriminación en el que se centra el presente estudio, debido a que a pesar del desarrollo económico que se ha dado, el cual ha sido producto del sistema capitalista, la participación de las mujeres se ha visto limitada dentro del mercado laboral mexicano, debido a que se han enfrentado a diversos obstáculos que han originado que su ascenso sea de forma gradual, involucrándose los diversos factores siguientes: 
 
 a) Educación: Actualmente, la población de mujeres de la zona urbana y rural con estudios ha ido aumentando pero enfrentándose a algunos obstáculos como la segmentación de profesiones, donde éstas han sido feminizadas y masculinizadas; producto de los estereotipos culturales que se han creado. Es importante señalar que existe un mayor avance en el incremento de la participación educativa y laboral entre las mujeres que pertenecen a la zona urbana. Sin embargo, aún sigue persistiendo un rezago educativo en nuestro país, por lo que es necesario tomar medidas que estén enfocadas a lograr una igualdad de oportunidades dentro de este sector, que den origen a mejores oportunidades de trabajo.
+
 b) Salarios: La desigualdad de salarios entre ambos géneros está muy presente, aún cuando las mujeres tienen el mismo o mayor grado escolar que los hombres, que cuentan con las mismas capacidades y hasta con la misma experiencia laboral o que se encuentran en el mismo puesto de trabajo. Cabe aclarar que hay mujeres que ganan más que los hombres pero es un mínimo porcentaje, y también esto depende del sector y de las actividades que realicen. 
+
 c) Jerarquización:  La jerarquización de las actividades laborales ha sido producto de la división de sexos efectuando discriminaciones sobre los puestos ocupados por hombres y mujeres , lo que ocasiona que el género femenino se encuentre en una situación vulnerable y en desventaja que genera un obstáculo para su desarrollo tanto profesional como personal. Existen mujeres y hombres que tienen el mismo tiempo laborando en una empresa, pero los hombres son los principales que ascienden de puesto.  Los hombres se encuentran en puestos con mayor jerarquía y con mejores sueldos, mientras que las mujeres tienen pocas posibilidades de ascender. Una de las principales causas es por su estado civil. Las mujeres solteras tienen mayores posibilidades de desarrollarse en su trabajo, destinan mayor tiempo a sus actividades laborales por lo que su desarrollo es mejor. Por otra parte, las mujeres que son casadas tienen menos posibilidades de tener un mejor desarrollo laboral debido a su doble rol de trabajo, lo que les impide ascender de puesto. 
+
 d) Jornadas de trabajo:  Las jornadas de trabajo son uno de los motivos por los cuales las mujeres dejan de trabajar, por lo que representa un elemento más para asentar la discriminación laboral hacia el género femenino. Si sumamos las horas laboradas por las actividades domésticas y extradomésticas veríamos que el trabajo realizado por las mujeres es mayor, con la diferencia de que el salario de ellas es proporcional o menor al de los hombres, y en el caso de la realización de las actividades domésticas no reciben remuneración alguna. Esto hace que su posición se encuentre en desventaja en comparación con los hombres, y más si agregamos que el esfuerzo físico realizado por ellas es igual o mayor. 
+
 e) Contrataciones:  Algunas empresas no realizan la contratación inmediata sino dentro de determinado tiempo para poder calificar el desempeño del trabajo, por lo que pueden decidir no contratarlas, con el fin de no generar gastos económicos: capacitación, seguro médico y prestaciones laborales. 
 
 ## Definición del público objetivo
@@ -176,13 +180,16 @@ Se adjunta el video en la carpeta de Videos.
 ### Test de Usabilidad 
 De una muestra de 5 usuarias y que de ellas el rango de edades se encontraban de entre 23 y 26 años nos dimos cuenta de que eran personas accesibles y sinceras que nos ayudaron a hacer el testeo,un 60% usan iphone y 40% android y de ellas todas respondieron que las redes sociales eran las apps que más utilizaban en su celular. Con ellas pudimos descubrir los siguientes hallazgos:
 
+**Pains**
 * No era necesario un log In para ingresar a nuestra app, a nuestras usuarias les generaba desconfianza
-* Todas son adictas a redes sociales y les gusta compartir sus vivencias con los demás.
+* En el prototipo nuestra app no tenía identidad por lo que nos piden que tenga un nombre para sentirse más identificadas.
+* Otro punto importante que descubrimos es que una de las chicas a las que le hicimos el test era abogada y menciona que este tipo de foros podrían ser de testimonios ya que de denuncias tendrían que ser en el MP para darle una formalidad y seguimiento.
+* También piden que haya más información acerca de cómo se mediría o con que métricas se tomaría en cuenta el resultdo.
+
+**Gains**
 * En el prototipo nuestra app no tenía identidad por lo que nos piden que tenga un nombre para sentirse más identificadas.
 * Nos pedían un mejor diseño, tipografía y con colores atractivos.
 * En cuanto a navegación nos mencionaron que era muy sencilla, y que quizá le faltaba un poco más de dinamismo.
-* Otro punto importante que descubrimos es que una de las chicas a las que le hicimos el test era abogada y menciona que este tipo de foros podrían ser de testimonios ya que de denuncias tendrían que ser en el MP para darle una formalidad y seguimiento.
-* También piden que haya más información acerca de cómo se mediría o con que métricas se tomaría en cuenta el resultdo.
 * El 55.6% descargaría esta app.
 * Teníamos la idea anteriormente del foro de denuncias, sin embargo nos dimos cuenta que esta fuera del marco legal y que estropearía el proceso legal de una denuncia formal, además que las chicas no entendían que era lo que sucedía después con su denuncia.
 
@@ -219,11 +226,17 @@ Realizamos 10 preguntas .
 Todas las respuestas se responden con SI o NO, si tienes de 1-3 respuestas es nivel bajo, de 4 a 6 es moderado, y de 7-10 es grave.
 También se adiciono un foro de testimonios, para que se preste a la interacción con más mujeres que sufren y pasan por este tipo de experiencias. Para es importante relacionarse y compartir este tipo de situaciones para tener un panorama amplio de cómo reaccionar, cómo denunciar los acosos o discriminación por ser mujer.
 
-Generamos una landing page que tiene los objetivos de nuestra app y link para que la puedan descargar en android o IOS. Esto con el fin de presentarles la idea de como queremos que se vea nuestra app, con que diseños y funciones e instrucciones para que sepan como pueden darle un uso correcto.
+De acuerdo a las respuestas si es un nivel bajo: se les darian recomendaciones de cómo sentirse más empoderadas en su empleo y que medidas tomar en caso de que se presentara alguna situación de discriminación o violencia de género.
+Si es un nivel moderado: Se les alentará a revisar información y videos así como el foro que promueve la UNIFEM con el fin de que tomen acciones hacia estas problemáticas y no se quedan calladas.
+Si es un nivel grave: Se darán los enlaces con la información detallada de cómo realizar las denuncias y las estancias en donde pueden realizarlas, así como se promoverá el acompañamiento a través de nuestra comunidad que implica ser escuchada como mujer.
 
 Tenemos como features:
 - el poder compartir en redes sociales nuestras publicaciones del foro, 
 - así como el resultado del desigualdometro.
+- Usar la API de IMB para que a traves de IA con sus respuestas en el desigualdometro se pueda reconocer con logaritmos si están sufriendo un momento de acoso, violencia o discriminación.
+
+## Modelo de Negocio
+
 
 # Prototipo de alta fidelidad
 
@@ -233,7 +246,7 @@ El prototipo de alta fidelidad no se llego a concretar pero se discute en una se
 
 * Vainilla JS
 * CCS
-* Frameworks: Materialize, Firebase, Bootstrap.
+* Frameworks: Materialize, Firebase.
 * Balsamiq
 * Illustrator
 
