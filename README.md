@@ -14,6 +14,7 @@
 - [Test de Usabilidad](#test-de-usabilidad)
 - [Propuesta](#propuesta)
 - [Prototipo de alta fidelidad](#prototipo-de-alta-fidelidad)
+- [Modelo de Negocio](#modelo-de-negocio)
 - [Herramientas utilizadas](#herramientas-utilizadas)
 
 
@@ -241,6 +242,18 @@ Tenemos como features:
 # Prototipo de alta fidelidad
 
 El prototipo de alta fidelidad no se llego a concretar pero se discute en una segunda iteración de este proyecto se pueda finalizar.
+
+![PAGE1](https://i.ibb.co/2jMkrk1/ema-2.jpg)
+![PAGE2](https://i.ibb.co/82Y9Rkv/PREGUN.jpg)
+![PAGE3](https://i.ibb.co/61VrBPX/e0A2.jpg)
+![PAGE4](https://i.ibb.co/ZYFrVFK/1.png)
+![PAGE4](https://i.ibb.co/RjsjwCJ/2.png)
+![PAGE5](https://i.ibb.co/J5ZfJ3Q/3.png)
+![PAGE6](https://i.ibb.co/9932f8M/E0A3.jpg)
+
+
+
+
 
 # Herramientas utilizadas
 
