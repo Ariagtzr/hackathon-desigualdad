@@ -10,9 +10,9 @@
 - [Contexto](#contexto)
 - [Definición del público objetivo](#definicion-del-publico-objetivo)
 - [Benchmark](#benchmark)
+- [Prototipo de baja fidelidad](#prototipo-de-baja-fidelidad)
 - [Test de Usabilidad](#test-de-usabilidad)
 - [Propuesta](#propuesta)
-- [Prototipo de baja fidelidad](#prototipo-de-baja-fidelidad)
 - [Prototipo de alta fidelidad](#prototipo-de-alta-fidelidad)
 - [Herramientas utilizadas](#herramientas-utilizadas)
 
@@ -94,7 +94,7 @@ En un inicio se realiza una proto- persona que nos puede ayudar a testear nuestr
 
 Después conforme fue avanzando el proceso hicimos un empathy map que nos ayudo a saber lo que sentía nuestra usuaria Mónica ella es una chica con ideales y características como nuestra protopersona pero vimos que tenía otras cosas más importantes que sólo datos demógraficos teníamos que saber exactamente que es lo que nuestra usuaria pensaba que necesitaba para sentirse bien y cuáles eran sus frustraciones. 
 
-![pains&gains](https://i.ibb.co/jhmhQxp/empathy.jpg)
+![pains&gains](https://i.ibb.co/G5NDJ2q/empathy.jpg)
 
 ## Benchmark
 
@@ -158,9 +158,33 @@ Calendario del año 2018 donde cada día contiene un microrrelato que trata sobr
 Con respecto a estas aplicaciones son muy básicas y no se pretende abarcar de manera exclusiva el problema de desigualdad por lo que buscamos en android algunas apps que tuvieran que ver con la inequidad y nos aparecieron 
 
 
-### Test de Usabilidad 
-De una muestra de 5 usuarias y que de ellas el rango de edades se encontraban de entre 23 y 26 años nos dimos cuenta de que eran personas accesibles y sinceras que nos ayudaron a hacer el testeo,un 60% usan iphone y 40% android y de ellas todas respondieron que las redes sociales eran las apps que más utilizaban en su celular. 
+## Historias de usuario
 
+- Yo como usuaria, quiero poder entrar a la aplicación sin loguearme.
+- Yo como usuaria, quiero poder elegir los botones entre desigualdometro y foro de testimonios
+- Yo como usuaria, quiero poder regresarme al menú.
+- Yo como usuaria, quiero ingresar a las preguntas del desigualdometro y que me arroje el resultado correcto.
+- Yo como usuaria, quiero tener la información de en donde denunciar si es que el nivel de desigualdad es alto.
+- Yo como usuaria, quiero darme cuenta de todos los testimonios que hay de mujeres que viven la situación de desigualdad.
+- Yo como usuaria, quiero escribir mi testimonio y publicarlo para dar a conocer mi historia y que genere impacto en esta comunidad.
+
+# Prototipo de baja fidelidad
+Realizamos un prototipo de baja fidelidad que es el que logramos testear con una muestra de cinco mujeres, ellas nos dieron información valiosa acerca de lo que realmente querían y sentían nuestras usuarias.
+
+Se adjunta el video en la carpeta de Videos.
+
+### Test de Usabilidad 
+De una muestra de 5 usuarias y que de ellas el rango de edades se encontraban de entre 23 y 26 años nos dimos cuenta de que eran personas accesibles y sinceras que nos ayudaron a hacer el testeo,un 60% usan iphone y 40% android y de ellas todas respondieron que las redes sociales eran las apps que más utilizaban en su celular. Con ellas pudimos descubrir los siguientes hallazgos:
+
+* No era necesario un log In para ingresar a nuestra app, a nuestras usuarias les generaba desconfianza
+* Todas son adictas a redes sociales y les gusta compartir sus vivencias con los demás.
+* En el prototipo nuestra app no tenía identidad por lo que nos piden que tenga un nombre para sentirse más identificadas.
+* Nos pedían un mejor diseño, tipografía y con colores atractivos.
+* En cuanto a navegación nos mencionaron que era muy sencilla, y que quizá le faltaba un poco más de dinamismo.
+* Otro punto importante que descubrimos es que una de las chicas a las que le hicimos el test era abogada y menciona que este tipo de foros podrían ser de testimonios ya que de denuncias tendrían que ser en el MP para darle una formalidad y seguimiento.
+* También piden que haya más información acerca de cómo se mediría o con que métricas se tomaría en cuenta el resultdo.
+* El 55.6% descargaría esta app.
+* Teníamos la idea anteriormente del foro de denuncias, sin embargo nos dimos cuenta que esta fuera del marco legal y que estropearía el proceso legal de una denuncia formal, además que las chicas no entendían que era lo que sucedía después con su denuncia.
 
 ## Propuesta 
 
@@ -192,16 +216,14 @@ Realizamos 10 preguntas .
 
 10 .- Imagina que estás embarazada, ¿Crees que la empresa en la que estas tienen las condiciones favorables para seguir laborando?
 
-Todas las respuestas se responden con SI o NO, si tienes de 1-3 respuestas es nivel bajo, de 4 a 6 es moderado, y de 7-10 es grave
+Todas las respuestas se responden con SI o NO, si tienes de 1-3 respuestas es nivel bajo, de 4 a 6 es moderado, y de 7-10 es grave.
+También se adiciono un foro de testimonios, para que se preste a la interacción con más mujeres que sufren y pasan por este tipo de experiencias. Para es importante relacionarse y compartir este tipo de situaciones para tener un panorama amplio de cómo reaccionar, cómo denunciar los acosos o discriminación por ser mujer.
 
-También se adiciono un foro de denuncias, para que se preste a la interacción con más mujeres que sufren y pasan por este tipo de experiencias. Para nuestra user-persona es importante relacionarse y compartir este tipo de situaciones para tener un panorama amplio de cómo reaccionar, cómo denunciar los acosos o discriminación por ser mujer.
+Generamos una landing page que tiene los objetivos de nuestra app y link para que la puedan descargar en android o IOS. Esto con el fin de presentarles la idea de como queremos que se vea nuestra app, con que diseños y funciones e instrucciones para que sepan como pueden darle un uso correcto.
 
-Y un apartado de denuncias se realizan denuncias de testigos o víctimas que pueden o no ser anónimas ya que no se registran dentro del MP, por lo tanto no se considera formal.
-
-# Prototipo de baja fidelidad
-Realizamos un prototipo de baja fidelidad que es el que logramos testear con una muestra de cinco mujeres, ellas nos dieron información valiosa acerca de lo que realmente querían y sentían nuestras usuarias.
-
-Se adjunta el video en la carpeta de Videos.
+Tenemos como features:
+- el poder compartir en redes sociales nuestras publicaciones del foro, 
+- así como el resultado del desigualdometro.
 
 # Prototipo de alta fidelidad
 
@@ -209,5 +231,10 @@ El prototipo de alta fidelidad no se llego a concretar pero se discute en una se
 
 # Herramientas utilizadas
 
+* Vainilla JS
+* CCS
+* Frameworks: Materialize, Firebase, Bootstrap.
+* Balsatiq
+* Illustrator
 
 
