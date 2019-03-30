@@ -234,7 +234,7 @@ El prototipo de alta fidelidad no se llego a concretar pero se discute en una se
 * Vainilla JS
 * CCS
 * Frameworks: Materialize, Firebase, Bootstrap.
-* Balsatiq
+* Balsamiq
 * Illustrator
 
 
