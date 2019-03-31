@@ -238,6 +238,15 @@ Tenemos como features:
 
 ## Modelo de Negocio
 
+Con respecto al tipo de giro que estamos tratando y que buscamos una alianza por con una asociación civil sin fines de lucro, buscamos un modelo de negocio centrado en los siguientes puntos:
+ Los generadores de fondos y recursos: contribuyentes de impuestos, donantes, voluntarios, otras instituciones.
+ Usuarios del servicio: con y sin contraprestación económica, con contraprestación no monetaria, sin ninguna contraprestación.
+ Reguladores: son los que regulan las funciones de este tipo de organizaciones, el gobierno con sus leyes y comisiones reguladoras, y los comités de consulta.
+ Los directivos: algunos combinan sus labores en estas organizaciones con su trabajo en otras entidades del sector privado e incluso realizan la actividad de forma voluntaria, otros tienen dedicación exclusiva y son retribuidos como cualquier profesional del
+sector privado lucrativo.
+ Miembros del staff o de apoyo: son personas que apoyan con su experiencia y su trabajo a la dirección de la organización normalmente de forma desinteresada.
+
+Nosotros nos interesamos por donaciones, patrocinios, subsidios gubernamentales, premios en especie y efectivo, inversiones y ventas del propio negocio son algunas opciones de financiamiento que tienen los emprendedores sociales para hacer rentable la empresa.
 
 # Prototipo de alta fidelidad
 
